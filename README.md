@@ -7,4 +7,4 @@ OverviewThis Excel workbook is a professional tool for financial variance analys
 •	Interactive Charts: Dynamic bar charts that update with filters (e.g., by revenue or expense).
 •	Data Validation: Dropdown lists for line items to prevent errors in P&L entries.
 •	LEFT & CONCAT Formulas: Parses account codes (LEFT for extraction) and combines labels (CONCAT for readable outputs).
-•	P&L Structure: auto-calculated variances and commentary notes.
+•	P&L Structure: auto-calculated variances.
